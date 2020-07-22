@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30104.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HandBookFuncStyle", "HandBookFuncStyle.csproj", "{102ADDB9-9B2C-4E58-957F-6AF55768F9BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{102ADDB9-9B2C-4E58-957F-6AF55768F9BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{102ADDB9-9B2C-4E58-957F-6AF55768F9BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{102ADDB9-9B2C-4E58-957F-6AF55768F9BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{102ADDB9-9B2C-4E58-957F-6AF55768F9BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3EEF7EC3-E978-47D2-B863-E877F918AD89}
+	EndGlobalSection
+EndGlobal
